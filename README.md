@@ -30,8 +30,31 @@ Una vez completado el proyecto inicial en PHP, decidí **diseñar un frontend co
 
 ## Cómo ejecutar el proyecto
 
-1. Clonar o descargar el repositorio.
-2. Abrir la carpeta del proyecto en **Visual Studio Code**.
-3. Si quieres usar PHP localmente:
-   ```bash
-   php -S localhost:8000
+1. Instala **XAMPP** en tu ordenador.  
+2. Copia la carpeta del proyecto dentro de: C:\xampp\htdocs
+3. Abre el **Panel de Control de XAMPP**.  
+4. Inicia **Apache** y **MySQL**.  
+5. Abre tu navegador y entra a: http://localhost/phpmyadmin/ y copia la base de datos.
+6. Abre tu navegador y entra a: http://localhost/ruleta.
+7. Interactúa con la ruleta y prueba apuestas virtuales.
+
+---
+
+## Nota
+
+Este proyecto **no está diseñado para apuestas reales**. Es únicamente educativo y sirve para practicar desarrollo web con PHP y JavaScript.
+
+---
+
+## Futuras mejoras
+
+- Mejorar la interfaz del frontend con animaciones más avanzadas  
+- Añadir multijugador en tiempo real  
+- Sistema de login y saldo persistente en base de datos  
+- Historial y estadísticas más completas  
+
+---
+
+**Autor:** pabloperezz17 (github) 
+**Fecha de creación:** 10/03/2026
+
